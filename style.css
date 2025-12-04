@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* CSS Variables */
 :root {
     --primary: #2c3e50;
@@ -993,7 +992,8 @@ nav {
         font-size: 0.9rem;
         padding: 0.4rem 0.8rem;
     }
-=======
+}
+
 /* CSS Variables */
 :root {
     --primary: #2c3e50;
@@ -1988,5 +1988,4 @@ nav {
         font-size: 0.9rem;
         padding: 0.4rem 0.8rem;
     }
->>>>>>> 04aa13248c52717b91af8069eb2bbf1749e7e281
 }
